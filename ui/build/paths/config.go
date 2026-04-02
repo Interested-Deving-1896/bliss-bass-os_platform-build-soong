@@ -120,6 +120,7 @@ var Configuration = map[string]PathConfig{
     "repo":    Allowed,
     "rustc":   Allowed,
 	"rustfmt": Allowed,
+	"size":    Allowed,
 	"sh":      Allowed,
 	"tar":     Allowed,
 	"tr":      Allowed,
